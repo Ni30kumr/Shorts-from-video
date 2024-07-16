@@ -1,0 +1,39 @@
+.env
+
+# Virtual environment
+myenv/
+
+# VSCode settings
+.vscode/
+
+# Python cache
+__pycache__/
+
+# Specific folders (assuming you don't want to push these)
+ayush/
+pawan/
+vocal_remover/myenv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+*.pyc
+*.npy
+*.npz
+*.pth
+*.json
+*.log
+
+*.jpg
+*.png
+
+*.wav
+*.m4a
+*.mp3
+*.mp4
+*.flac
+
+*~
+.vscode/
+venv/
