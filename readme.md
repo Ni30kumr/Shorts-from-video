@@ -1,6 +1,6 @@
 # YouTube Shorts Generator from Podcast
 
-Aim: Develop an ML system that automatically generates engaging and informative YouTube Shorts from a 30-minute video podcast. The generated Shorts should effectively capture the key points and insights discussed in the original podcast.
+Aim: Develop an system that automatically generates engaging and informative YouTube Shorts from a 30-minute video podcast using GenAI. The generated Shorts should effectively capture the key points and insights discussed in the original podcast.
 
 ## Setup Instructions
 
